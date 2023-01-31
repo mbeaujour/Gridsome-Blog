@@ -1,6 +1,6 @@
 # Gridsome Blog
 
-> A blog starter theme for [Gridsome]() with a minimalistic design.
+> A simple blog Gridsome that uses Markdown for content. Gridsome is a JAMStack framework for Vue.js for building static generated websites & apps that are fast.
 
 
 ## User Stories
