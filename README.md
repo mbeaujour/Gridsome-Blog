@@ -1,25 +1,30 @@
-# Gridsome Minimal Blog
+# Gridsome Blog
 
 > A blog starter theme for [Gridsome]() with a minimalistic design.
 
+
+## User Stories
+
+The following **required** functionality is completed:
+- [x]  User can see a list of blog posts
+- [x]  User can click on a blog post to read more.
+
+
 ## Preview
 
-![preview](https://res.cloudinary.com/lauragift/image/upload/v1558648720/gridsome-minimal-blog_qqm49s.png)
+<img src='blog.gif' title='Video Walkthrough' width='' alt='Video blog' />
 
-## Install
-### 1. Install Gridsome CLI tool if you don't have
+GIF created with `LiceCap`.
 
-`npm install --global @gridsome/cli`
 
-### 2. Create a Gridsome project
+## Development server
 
-1. `gridsome create my-blog https://github.com/lauragift21/gridsome-minimal-blog` to install default starter
-2. `cd my-blog` to open the folder
+1. Clone repository
+2. Navigate to the project folder using the command line and type `npm i`
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
 
-<!-- Markdown snippet -->
-### 3. Deploy Gridsome project
-Use this deploy button to get your own copy of the repository.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lauragift21/gridsome-minimal-blog)
+## License
+
+    Copyright [2023] [Marckenson Beaujour]
